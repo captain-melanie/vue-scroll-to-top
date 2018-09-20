@@ -12,15 +12,17 @@ npm i v-scroll-to-top
 
 ## Usage
 ```$xslt
-import Vue from 'vue
+import Vue from 'vue'
 import VScrollToTop from 'v-scroll-to-top'
 
 Vue.use(VScrollToTop)
 ```
 
-##### SampleComponent.vue
+##### SomeComponent.vue
 ```$xslt
 <template>
   <v-scroll-to-top></v-scroll-to-top>
 </template>
 ```
+### Github
+https://github.com/captain-melanie/vue-scroll-to-top
