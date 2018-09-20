@@ -1,0 +1,22 @@
+{
+  "name": "v-scroll-to-top",
+  "version": "1.0.0",
+  "description": "A simple scroll to top button for Vue",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-scroll-to-top",
+    "v-scroll-to-top",
+    "vue-back-to-top",
+    "v-back-to-top",
+    "scroll-to-top",
+    "back-to-top\""
+  ],
+  "author": "captain-melanie",
+  "license": "ISC"
+}
